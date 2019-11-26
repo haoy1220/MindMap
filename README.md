@@ -3,7 +3,7 @@
 
 #### Mysql
 
-[mysql1153 Got a packet bigger than ‘max_allowed_packet’ bytes的解决方法](./mysql/mysql1153 Got a packet bigger than 'max_allowed_packet' bytes的解决方法.md)
+[Mysql问题解决方案](./mysql/Mysql问题解决方案.md)
 
 [MySQL命令执行sql文件的两种方法](./mysqlMySQL命令执行sql文件的两种方法.md)
 

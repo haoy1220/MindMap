@@ -1,4 +1,6 @@
-### mysql:1153 Got a packet bigger than ‘max_allowed_packet’ bytes的解决方法
+# Mysql问题解决方案
+
+#### mysql:1153 Got a packet bigger than ‘max_allowed_packet’ bytes的解决方法
 
 备份还原或数据导入报错1153：Got a packet bigger than‘max_allowed_packet’bytes的问题
 
