@@ -33,25 +33,25 @@
 
 ## 思维导图下载
 
-[Docker](./MindMap/Docker.emmx)
+[Docker](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Docker.emmx)
 
-[Java面试208道题](./MindMap/Java面试208道题.emmx)
+[Java面试208道题](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Java面试208道题.emmx)
 
-[JVM](./MindMap/JVM.emmx)
+[JVM](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/JVM.emmx)
 
-[Linux](./MindMap/Linux.emmx)
+[Linux](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Linux.emmx)
 
-[olt操作](./MindMap/olt操作.emmx)
+[olt操作](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/olt操作.emmx)
 
-[Tomcat和Servlet](./MindMap/Tomcat和Servlet.emmx)
+[Tomcat和Servlet](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Tomcat和Servlet.emmx)
 
-[八大排序算法](./MindMap/八大排序算法.emmx)
+[八大排序算法](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/八大排序算法.emmx)
 
-[深入理解Java虚拟机](./MindMap/深入理解Java虚拟机.emmx)
+[深入理解Java虚拟机](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/深入理解Java虚拟机.emmx)
 
-[计算机网络--应试版](./MindMap/计算机网络--应试版.emmx)
+[计算机网络--应试版](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/计算机网络--应试版.emmx)
 
-[信息系统分析与设计--应试版](./MindMap/信息系统分析与设计--应试版.emmx)
+[信息系统分析与设计--应试版](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/信息系统分析与设计--应试版.emmx)
 
-[微型计算机技术及应用--应试版](./MindMap/微型计算机技术及应用--应试版.emmx)
+[微型计算机技术及应用--应试版](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/微型计算机技术及应用--应试版.emmx)
 
