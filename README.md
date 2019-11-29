@@ -37,8 +37,6 @@
 
 [Java面试208道题](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Java面试208道题.emmx)
 
-[JVM](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/JVM.emmx)
-
 [Linux](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Linux.emmx)
 
 [olt操作](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/olt操作.emmx)
