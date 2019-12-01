@@ -53,6 +53,8 @@
 
 [深入理解Java虚拟机](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/深入理解Java虚拟机.emmx)
 
+[Java并发编程](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/深入理解Java虚拟机.emmx)
+
 [计算机网络--应试版](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/计算机网络--应试版.emmx)
 
 [信息系统分析与设计--应试版](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/信息系统分析与设计--应试版.emmx)
