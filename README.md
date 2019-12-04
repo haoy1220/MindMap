@@ -45,8 +45,6 @@
 
 [Linux](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Linux.emmx)
 
-[olt操作](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/olt操作.emmx)
-
 [Tomcat和Servlet](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Tomcat和Servlet.emmx)
 
 [八大排序算法](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/八大排序算法.emmx)
