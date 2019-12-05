@@ -39,6 +39,8 @@
 
 ## 思维导图下载
 
+tips：目前无法下载文件了。。。。
+
 [Docker](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Docker.emmx)
 
 [Java面试208道题](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Java面试208道题.emmx)
@@ -47,7 +49,7 @@
 
 [Tomcat和Servlet](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/Tomcat和Servlet.emmx)
 
-[八大排序算法](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/八大排序算法.emmx)
+[数据结构与算法](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/数据结构与算法.emmx)
 
 [深入理解Java虚拟机](https://github.com/haoy1220/MindMap-And-Notes/raw/master/MindMap/深入理解Java虚拟机.emmx)
 
