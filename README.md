@@ -1,15 +1,21 @@
 # MindMap-And-Notes
 ## 问题记录
 
-##### Mysql
+##### Mysql问题解决方案
 
-[Mysql问题解决方案](./Mysql问题解决方案.md)
+[ubuntu忘记mysql的root密码](./ubuntu忘记mysql的root密码.md)
+
+[Windows下重置mysql密码](./Windows下重置mysql密码.md)
+
+[MySQL命令执行sql文件的两种方法]( ./MySQL命令执行sql文件的两种方法.md )
+
+[mysql错误解决方法]( ./mysql错误解决方法.md )
 
 
 
-##### 开发工具
+##### Maven问题解决方案
 
-[maven问题解决方案](./maven问题解决方案.md)
+[修改maven的下载源地址](./修改maven的下载源地址.md)
 
 
 
