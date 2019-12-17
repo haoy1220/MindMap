@@ -31,6 +31,8 @@
 
 [Java面试208道题](./MindMap/Java面试208道题.emmx)
 
+[Java 基础](./mindmap/Java基础.emmx)
+
 [Java IO模块](./MindMap/JavaIO模块.emmx)
 
 [Java 异常模块](./MindMap/Java异常模块.emmx)
