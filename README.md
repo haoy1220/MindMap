@@ -31,13 +31,13 @@
 
 [Java面试208道题](./MindMap/Java面试208道题.emmx)
 
-[Java IO模块](./mindmap/JavaIO模块.emmx)
+[Java IO模块](./MindMap/JavaIO模块.emmx)
 
-[Java 异常模块](./mindmap/Java异常模块.emmx)
+[Java 异常模块](./MindMap/Java异常模块.emmx)
 
 [Tomcat和Servlet](./MindMap/Tomcat和Servlet.emmx)
 
-[Java 并发编程](./MindMap/java并发编程.emmx)
+[Java 并发编程](./MindMap/Java并发编程.emmx)
 
 [深入理解Java虚拟机](./MindMap/深入理解Java虚拟机.emmx)
 
