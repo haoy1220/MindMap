@@ -33,6 +33,8 @@
 
 [Java 基础](./mindmap/Java基础.emmx)
 
+[Java 集合](./mindmap/Java集合.emmx)
+
 [Java IO模块](./MindMap/JavaIO模块.emmx)
 
 [Java 异常模块](./MindMap/Java异常模块.emmx)
