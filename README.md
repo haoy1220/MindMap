@@ -25,9 +25,9 @@
 
 [Java面试208道题](./MindMap/Java面试208道题.emmx)
 
-[Java 基础](./mindmap/Java基础.emmx)
+[Java 基础](./MindMap/Java基础.emmx)
 
-[Java 集合](./mindmap/Java集合.emmx)
+[Java 集合](./MindMap/Java集合.emmx)
 
 [Java IO模块](./MindMap/JavaIO模块.emmx)
 
@@ -51,7 +51,7 @@
 
 ##### 编程相关
 
-[设计模式](./mindmap/设计模式.emmx)
+[设计模式](./MindMap/设计模式.emmx)
 
 [数据结构与算法](./MindMap/数据结构与算法.emmx)
 
