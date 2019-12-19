@@ -43,9 +43,9 @@
 
 ##### 数据库
 
-[redis](./mindmap/redis.emmx)
+[redis](./MindMap/redis.emmx)
 
-[Mysql](./mindmap/mysql.emmx)
+[Mysql](./MindMap/Mysql.emmx)
 
 
 
