@@ -21,12 +21,6 @@
 
 ## 思维导图
 
-##### 开发工具
-
-[Docker](./MindMap/Docker.emmx)
-
-
-
 ##### Java相关
 
 [Java面试208道题](./MindMap/Java面试208道题.emmx)
@@ -47,6 +41,12 @@
 
 
 
+##### 数据库
+
+[redis](./mindmap/redis.emmx)
+
+
+
 ##### 编程相关
 
 [设计模式](./mindmap/设计模式.emmx)
@@ -58,6 +58,12 @@
 [信息系统分析与设计--应试版](./MindMap/信息系统分析与设计--应试版.emmx)
 
 [微型计算机技术及应用--应试版](./MindMap/微型计算机技术及应用--应试版.emmx)
+
+
+
+##### 开发工具
+
+[Docker](./MindMap/Docker.emmx)
 
 
 
