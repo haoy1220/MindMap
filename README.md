@@ -51,7 +51,7 @@
 
 ##### 框架
 
-[Spring Boot](./MindMap/Spring Boot.emmx)
+[Spring Boot](./MindMap/SpringBoot.emmx)
 
 
 
