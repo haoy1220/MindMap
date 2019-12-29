@@ -3,13 +3,13 @@
 
 ##### Mysql问题解决方案
 
-[ubuntu忘记mysql的root密码](./ubuntu忘记mysql的root密码.md)
+[ubuntu忘记mysql的root密码](.//ubuntu忘记mysql的root密码.md)
 
 [Windows下重置mysql密码](./Windows下重置mysql密码.md)
 
-[MySQL命令执行sql文件的两种方法]( ./MySQL命令执行sql文件的两种方法.md )
+[MySQL命令执行sql文件的两种方法](./MySQL命令执行sql文件的两种方法.md)
 
-[mysql错误解决方法]( ./mysql错误解决方法.md )
+[mysql错误解决方法](./mysql错误解决方法.md)
 
 
 
