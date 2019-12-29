@@ -41,6 +41,12 @@
 
 
 
+##### JavaWeb基础
+
+[JavaWeb之Servlet](./MindMap/JavaWeb之Servlet.emmx)
+
+
+
 ##### 数据库
 
 [redis](./MindMap/redis.emmx)
@@ -57,13 +63,25 @@
 
 
 
+##### 服务器
+
+[Tomcat服务器](./MindMap/Tomcat服务器.emmx)
+
+
+
+##### 计算机网络
+
+[HTTP](./MindMap/HTTP.emmx)
+
+[计算机网络--应试版](./MindMap/计算机网络--应试版.emmx)
+
+
+
 ##### 编程相关
 
 [设计模式](./MindMap/设计模式.emmx)
 
 [数据结构与算法](./MindMap/数据结构与算法.emmx)
-
-[计算机网络--应试版](./MindMap/计算机网络--应试版.emmx)
 
 [信息系统分析与设计--应试版](./MindMap/信息系统分析与设计--应试版.emmx)
 
