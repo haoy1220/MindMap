@@ -8,6 +8,8 @@
 
 [Java 基础](Java基础.emmx)
 
+[Java 8新特性](Java8新特性.emmx)
+
 [Java 集合](Java集合.emmx)
 
 [Java IO模块](JavaIO模块.emmx)
@@ -30,8 +32,6 @@
 
 ##### 数据库
 
-[Redis](Redis.emmx)
-
 [MySQL](MySQL.emmx)
 
 
@@ -41,6 +41,16 @@
 [Spring](Spring.emmx)
 
 [Spring Boot](SpringBoot.emmx)
+
+[Spring Cloud](SpringCloud.emmx)
+
+
+
+##### 中间件
+
+[Redis](Redis.emmx)
+
+[RabbitMq](消息队列中间件.emmx)
 
 
 
