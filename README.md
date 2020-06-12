@@ -2,10 +2,6 @@
 
 ##### Java相关
 
-[Java面试208道题](Java面试208道题.emmx)
-
-[Java架构师学习路线图](Java架构师学习路线图.emmx)
-
 [Java 基础](Java基础.emmx)
 
 [Java 8新特性](Java8新特性.emmx)
