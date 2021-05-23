@@ -1,30 +1,32 @@
 ## 思维导图
 
-##### Java相关
+记录自己平时学习记录的思维导图。
 
-[Java 基础](Java基础.emmx)
+### Java相关
 
-[Java 8新特性](Java8新特性.emmx)
+[Java 基础](/Java/Java基础.emmx)
 
-[Java 集合](Java集合.emmx)
+[Java 8新特性](/Java/Java8新特性.emmx)
 
-[Java IO模块](JavaIO模块.emmx)
+[Java 集合](/Java/Java集合.emmx)
 
-[Java 异常模块](Java异常模块.emmx)
+[Java IO模块](/Java/JavaIO模块.emmx)
 
-[Java 并发编程](Java并发编程.emmx)
+[Java 异常模块](/Java/Java异常模块.emmx)
 
-[深入理解Java虚拟机](深入理解Java虚拟机.emmx)
+[Java 并发编程](/Java/Java并发编程.emmx)
 
+[深入理解Java虚拟机](/Java/Java虚拟机.emmx)
 
+[JavaWeb之Servlet](/Java/JavaWeb之Servlet.emmx)
 
-##### JavaWeb基础
+### Web
 
-[JavaWeb之Servlet](JavaWeb之Servlet.emmx)
+[Tomcat服务器](/Web/Tomcat服务器.emmx)
 
-[Tomcat服务器](Tomcat服务器.emmx)
+[HTTP](HTTP.emmx)
 
-
+[HTTP](HTTP.emmx)
 
 ##### 数据库
 
@@ -58,7 +60,7 @@
 
 ##### 计算机网络
 
-[HTTP](HTTP.emmx)
+
 
 [计算机网络--应试版](计算机网络--应试版.emmx)
 
